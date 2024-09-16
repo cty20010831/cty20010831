@@ -15,7 +15,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 - 🤝 &nbsp; I’m more than welcome to collaborate on research projects related to creativity, decision-making, and computational psychiatry; 
 - 🌱 &nbsp; I’m currently honing web development and deep learning skills; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cty20010831?tab=repositories); 
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tianyue-cong-94969921b/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tianyue-cong-94969921b/); 
 - 📝 &nbsp; Checkout my [CV](assets/CV.pdf); 
 - 📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, and 📸.
 
@@ -133,13 +133,19 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+### 📊 GitHub Stats
 
-</a>
+<!-- Top Languages -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cty20010831&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="cty20010831" /></p>
+
+<!-- GitHub Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cty20010831&show_icons=true&locale=en&hide_rank=true&include_all_commits=true&theme=tokyonight" alt="cty20010831" /></p>
+
+<!-- GitHub Streak -->
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=cty20010831&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<!-- GitHub Trophies -->
+<p>&nbsp;<img align="right" src="https://github-profile-trophy.vercel.app/?username=cty20010831&theme=tokyonight&row=1&column=3" alt="GitHub Trophies" /></p>
 
 <br>
 

@@ -1,13 +1,13 @@
 ## Hey 👋, I'm Sam Cong!
-<a href='https://www.linkedin.com/in/tianyue cong/'><img align='left' alt="linkedin" src="assets/icons/linkedin.svg" height="30" width="40" /></a>
-<a href='https://x.com/congtianyue1'><img align='left' alt="twitter" src="assets/icons/x.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/congtianyue" target="blank"><img align="center" src="assets/icons/ins.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href='https://www.linkedin.com/in/tianyue-cong-94969921b/'><img align='left' alt="linkedin" src="assets/icons/linkedin.svg" height="42px" /></a>
+<a href='https://x.com/congtianyue1'><img align='left' alt="twitter" src="assets/icons/x.svg" height="42px" /></a>
+<a href="https://instagram.com/congtianyue" target="blank"><img align="center" src="assets/icons/ins.svg" alt="gautamkrishnar" height="42px" /></a>
 
 I am currently a second-year UChicago MACSS student interested in **cognitive modeling** 🧠 to better understand mental processes among individuals with and without mental disorders. Broadly, I am interested in studing cognitive processes behind human **creativity** ✨ using state-of-art computational approaches (e.g., compositional stroke embedding models for drawing and NLP for say-out-loud narratives). Additionally, I am interested in utilizing reinforcement learning and sequential sampling models, as well as novel AI-based methods to better understand people's **decision-making processes** ⚖️ and further to advance **diagnostic and therapeutic methodologies** 🩺 through rigorous, data-driven approaches that extend beyond traditional psychological assessments.
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="250px" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -15,7 +15,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 - 🤝 &nbsp; I’m more than welcome to collaborate on research projects related to creativity, decision-making, and computational psychiatry; 
 - 🌱 &nbsp; I’m currently honing web development and deep learning skills; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cty20010831?tab=repositories); 
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tianyue cong/); 
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tianyue-cong-94969921b/)
 - 📝 &nbsp; Checkout my [CV](assets/CV.pdf); 
 - 📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, and 📸.
 

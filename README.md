@@ -1,4 +1,4 @@
-<div style="font-family: 'Monaco', 'Courier New', Courier, monospace;">
+<div style="font-family: 'Monaco';">
 
 ## Hey 👋, I'm Sam Cong!
 

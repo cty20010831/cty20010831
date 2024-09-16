@@ -14,12 +14,12 @@
 <img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="230px" width="400px"/>
 <ul style="font-size: 16px; color: #333;">
   <li>💪 &nbsp; I’m now preparing for the upcoming PhD application cycle;</li>
-  <li>🤝 &nbsp; I’m more than welcome to collaborate on research projects related to creativity, decision-making, and computational psychiatry;</li>
-  <li>🌱 &nbsp; I’m currently honing web development and deep learning skills;</li>
+  <li>🤝 &nbsp; Welcome collaboration on research projects studying creativity, decision-making, & computational psychiatry;</li>
+  <li>🌱 &nbsp; I’m now honing web development & deep learning skills;</li>
   <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/cty20010831?tab=repositories" style="color: #007acc;">Github</a>;</li>
   <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/tianyue-cong-94969921b/" style="color: #007acc;">LinkedIn</a>;</li>
   <li>📝 &nbsp; Checkout my <a href="assets/CV.pdf" style="color: #007acc;">CV</a>;</li>
-  <li>📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, and 📸.</li>
+  <li>📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, 🥾, and 📸.</li>
 </ul>
 
 <br>

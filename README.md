@@ -1,8 +1,7 @@
 ## Hey 👋, I'm Sam Cong!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="assets/icons/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="assets/icons/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="assets/icons/kaggle.svg" height='18px'/></a>
-
+<a href='https://www.linkedin.com/in/tianyue cong/'><img align='left' alt="linkedin" src="assets/icons/linkedin.svg" height="30" width="40" /></a>
+<a href='https://x.com/congtianyue1'><img align='left' alt="twitter" src="assets/icons/x.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/congtianyue" target="blank"><img align="center" src="assets/icons/ins.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 I am currently a second-year UChicago MACSS student interested in **cognitive modeling** 🧠 to better understand mental processes among individuals with and without mental disorders. Broadly, I am interested in studing cognitive processes behind human **creativity** ✨ using state-of-art computational approaches (e.g., compositional stroke embedding models for drawing and NLP for say-out-loud narratives). Additionally, I am interested in utilizing reinforcement learning and sequential sampling models, as well as novel AI-based methods to better understand people's **decision-making processes** ⚖️ and further to advance **diagnostic and therapeutic methodologies** 🩺 through rigorous, data-driven approaches that extend beyond traditional psychological assessments.
 <br/>
@@ -12,15 +11,13 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m more than welcome to collaborate on research projects on creativity, decision-making, and computational psychiatry
-- 🌱 &nbsp; I’m currently learning web development (e.g., Javascript, HTML, and CSS)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cty20010831?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [CV](assets/CV.pdf)
-- 📚 &nbsp; When I am free, I love playing basketball, photography, billards, and traveling.
-
- Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 💪 &nbsp; I’m currently preparing my application for the upcoming PhD application cycle; 
+- 🤝 &nbsp; I’m more than welcome to collaborate on research projects related to creativity, decision-making, and computational psychiatry; 
+- 🌱 &nbsp; I’m currently honing web development and deep learning skills; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cty20010831?tab=repositories); 
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tianyue cong/); 
+- 📝 &nbsp; Checkout my [CV](assets/CV.pdf); 
+- 📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, and 📸.
 
 <br>
 
@@ -93,7 +90,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 </div>
 
 <!-- Big Data, High Performance Computing, and Cloud Computing -->
-#### ☁️ Big Data, HPC, and Cloud Computing
+#### ☁️ Big Data, High Performance Computing, and Cloud Computing
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://cython.org/" target="_blank" rel="noreferrer">
     <img src="https://cython.org/logo/cython-logo.svg" alt="Cython" height="42px"/>

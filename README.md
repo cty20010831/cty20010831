@@ -1,30 +1,39 @@
+<div style="font-family: 'Monaco', 'Courier New', Courier, monospace;">
+
 ## Hey 👋, I'm Sam Cong!
-<a href='https://www.linkedin.com/in/tianyue-cong-94969921b/'><img align='left' alt="linkedin" src="assets/icons/linkedin.svg" height="42px" /></a>
-<a href='https://x.com/congtianyue1'><img align='left' alt="twitter" src="assets/icons/x.svg" height="42px" /></a>
-<a href="https://instagram.com/congtianyue" target="blank"><img align="center" src="assets/icons/ins.svg" alt="gautamkrishnar" height="42px" /></a>
 
-I am currently a second-year UChicago MACSS student interested in **cognitive modeling** 🧠 to better understand mental processes among individuals with and without mental disorders. Broadly, I am interested in studing cognitive processes behind human **creativity** ✨ using state-of-art computational approaches (e.g., compositional stroke embedding models for drawing and NLP for say-out-loud narratives). Additionally, I am interested in utilizing reinforcement learning and sequential sampling models, as well as novel AI-based methods to better understand people's **decision-making processes** ⚖️ and further to advance **diagnostic and therapeutic methodologies** 🩺 through rigorous, data-driven approaches that extend beyond traditional psychological assessments.
+<!-- Social Icons with Styling -->
+<a href='https://www.linkedin.com/in/tianyue-cong-94969921b/'><img align='left' alt="linkedin" src="assets/icons/linkedin.svg" height="42px" style="margin-right: 10px;"/></a>
+<a href='https://x.com/congtianyue1'><img align='left' alt="twitter" src="assets/icons/x.svg" height="42px" style="margin-right: 10px;"/></a>
+<a href="https://instagram.com/congtianyue" target="blank"><img align="center" src="assets/icons/ins.svg" alt="instagram" height="42px" style="margin-right: 10px;"/></a>
+
+<!-- Introduction Paragraph with Custom Font and Size -->
+<p style="font-size: 16px; color: #333;">
+  I am currently a second-year UChicago MACSS student interested in <b style="color:#FF6347;">cognitive modeling</b> 🧠 to better understand mental processes among individuals with and without mental disorders. Broadly, I am interested in studying cognitive processes behind human <b style="color:#FF6347;">creativity</b> ✨ using state-of-the-art computational approaches (e.g., compositional stroke embedding models for drawing and NLP for say-out-loud narratives). Additionally, I am interested in utilizing reinforcement learning and sequential sampling models, as well as novel AI-based methods to better understand people's <b style="color:#FF6347;">decision-making processes</b> ⚖️ and further to advance <b style="color:#FF6347;">diagnostic and therapeutic methodologies</b> 🩺 through rigorous, data-driven approaches that extend beyond traditional psychological assessments.
+</p>
+
 <br/>
-<br/>
 
-<img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="250px" width="360px"/>
-  
-### 🧐 More About Me:
+<img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="250px" width="360px" style="margin: 20px;"/>
 
-- 💪 &nbsp; I’m currently preparing my application for the upcoming PhD application cycle; 
-- 🤝 &nbsp; I’m more than welcome to collaborate on research projects related to creativity, decision-making, and computational psychiatry; 
-- 🌱 &nbsp; I’m currently honing web development and deep learning skills; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cty20010831?tab=repositories); 
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tianyue-cong-94969921b/); 
-- 📝 &nbsp; Checkout my [CV](assets/CV.pdf); 
-- 📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, and 📸.
+## 🧐 More About Me:
+
+<ul style="font-size: 16px; color: #333;">
+  <li>💪 &nbsp; I’m currently preparing my application for the upcoming PhD application cycle;</li>
+  <li>🤝 &nbsp; I’m more than welcome to collaborate on research projects related to creativity, decision-making, and computational psychiatry;</li>
+  <li>🌱 &nbsp; I’m currently honing web development and deep learning skills;</li>
+  <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/cty20010831?tab=repositories" style="color: #007acc;">Github</a>;</li>
+  <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/tianyue-cong-94969921b/" style="color: #007acc;">LinkedIn</a>;</li>
+  <li>📝 &nbsp; Checkout my <a href="assets/CV.pdf" style="color: #007acc;">CV</a>;</li>
+  <li>📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, and 📸.</li>
+</ul>
 
 <br>
 
-### 🔨 Languages and Tools:
+## 🔨 Languages and Tools:
 
 <!-- Programming Languages -->
-#### 💻 Programming Languages
+### 💻 Programming Languages
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="45px"/>
@@ -50,7 +59,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 </div>
 
 <!-- AI & ML -->
-#### 🤖 AI & Machine Learning Tools
+### 🤖 AI & Machine Learning Tools
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="42px"/>
@@ -70,7 +79,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 </div>
 
 <!-- Data Science -->
-#### 📊 Data Science Libraries
+### 📊 Data Science Libraries
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="42px"/>
@@ -90,7 +99,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 </div>
 
 <!-- Big Data, High Performance Computing, and Cloud Computing -->
-#### ☁️ Big Data, High Performance Computing, and Cloud Computing
+### ☁️ Big Data, High Performance Computing, and Cloud Computing
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://cython.org/" target="_blank" rel="noreferrer">
     <img src="https://cython.org/logo/cython-logo.svg" alt="Cython" height="42px"/>
@@ -107,7 +116,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 </div>
 
 <!-- Productivity -->
-#### 📋 Productivity Tools
+### 📋 Productivity Tools
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <a href="https://www.office.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Microsoft Office" height="42px"/>
@@ -132,8 +141,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 
 <br>
 
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <!-- Top Languages -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cty20010831&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="cty20010831" /></p>
@@ -146,11 +154,12 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 
 <br>
 
-
-### 🛠️ My Projects
+## 🛠️ My Projects
 <a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
 <a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+
+</div>

@@ -144,10 +144,8 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 <!-- GitHub Streak -->
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=cty20010831&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /></p>
 
-<!-- GitHub Trophies -->
-<p>&nbsp;<img align="right" src="https://github-profile-trophy.vercel.app/?username=cty20010831&theme=tokyonight&row=1&column=3" alt="GitHub Trophies" /></p>
-
 <br>
+
 
 ### 🛠️ My Projects
 <a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>

@@ -1,5 +1,3 @@
-<div style="font-family: 'Monaco';">
-
 ## Hey 👋, I'm Sam Cong!
 
 <!-- Social Icons with Styling -->
@@ -7,19 +5,15 @@
 <a href='https://x.com/congtianyue1'><img align='left' alt="twitter" src="assets/icons/x.svg" height="42px" style="margin-right: 10px;"/></a>
 <a href="https://instagram.com/congtianyue" target="blank"><img align="center" src="assets/icons/ins.svg" alt="instagram" height="42px" style="margin-right: 10px;"/></a>
 
-<!-- Introduction Paragraph with Custom Font and Size -->
-<p style="font-size: 16px; color: #333;">
+<!-- Introduction Paragraph -->
   I am currently a second-year UChicago MACSS student interested in <b style="color:#FF6347;">cognitive modeling</b> 🧠 to better understand mental processes among individuals with and without mental disorders. Broadly, I am interested in studying cognitive processes behind human <b style="color:#FF6347;">creativity</b> ✨ using state-of-the-art computational approaches (e.g., compositional stroke embedding models for drawing and NLP for say-out-loud narratives). Additionally, I am interested in utilizing reinforcement learning and sequential sampling models, as well as novel AI-based methods to better understand people's <b style="color:#FF6347;">decision-making processes</b> ⚖️ and further to advance <b style="color:#FF6347;">diagnostic and therapeutic methodologies</b> 🩺 through rigorous, data-driven approaches that extend beyond traditional psychological assessments.
-</p>
 
-<br/>
-
-<img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="250px" width="360px" style="margin: 20px;"/>
+<br>
 
 ## 🧐 More About Me:
-
+<img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="230px" width="400px"/>
 <ul style="font-size: 16px; color: #333;">
-  <li>💪 &nbsp; I’m currently preparing my application for the upcoming PhD application cycle;</li>
+  <li>💪 &nbsp; I’m now preparing for the upcoming PhD application cycle;</li>
   <li>🤝 &nbsp; I’m more than welcome to collaborate on research projects related to creativity, decision-making, and computational psychiatry;</li>
   <li>🌱 &nbsp; I’m currently honing web development and deep learning skills;</li>
   <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/cty20010831?tab=repositories" style="color: #007acc;">Github</a>;</li>
@@ -161,5 +155,3 @@
 <a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
 <a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
-
-</div>

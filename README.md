@@ -11,7 +11,7 @@
 <br>
 
 ## 🧐 More About Me:
-<img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="230px" width="400px"/>
+<img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="200px" width="400px"/>
 <ul style="font-size: 16px; color: #333;">
   <li>💪 &nbsp; I’m now preparing for the upcoming PhD application cycle;</li>
   <li>🤝 &nbsp; Welcome collaboration on research projects studying creativity, decision-making, & computational psychiatry;</li>

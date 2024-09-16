@@ -29,7 +29,7 @@ I am currently a second-year UChicago MACSS student interested in **cognitive mo
 <!-- Programming Languages -->
 #### 💻 Programming Languages
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="42px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="45px"/>
 </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="42px"/>

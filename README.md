@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Sam Cong!
 
 <!-- Social Icons with Styling -->
-<a href='https://www.linkedin.com/in/tianyue-cong-94969921b/'><img align='left' alt="linkedin" src="assets/icons/linkedin.svg" height="42px" style="margin-right: 10px;"/></a>
+<a href='https://www.linkedin.com/in/tianyuecong/'><img align='left' alt="linkedin" src="assets/icons/linkedin.svg" height="42px" style="margin-right: 10px;"/></a>
 <a href='https://x.com/congtianyue1'><img align='left' alt="twitter" src="assets/icons/x.svg" height="42px" style="margin-right: 10px;"/></a>
 <a href="https://instagram.com/congtianyue" target="blank"><img align="center" src="assets/icons/ins.svg" alt="instagram" height="42px" style="margin-right: 10px;"/></a>
 
@@ -17,7 +17,7 @@
   <li>🤝 &nbsp; Welcome collaboration on research projects studying creativity, decision-making, & computational psychiatry;</li>
   <li>🌱 &nbsp; I’m now honing web development & deep learning skills;</li>
   <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/cty20010831?tab=repositories" style="color: #007acc;">Github</a>;</li>
-  <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/tianyue-cong-94969921b/" style="color: #007acc;">LinkedIn</a>;</li>
+  <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/tianyuecong/" style="color: #007acc;">LinkedIn</a>;</li>
   <li>📝 &nbsp; Checkout my <a href="assets/CV.pdf" style="color: #007acc;">CV</a>;</li>
   <li>📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, 🥾, and 📸.</li>
 </ul>

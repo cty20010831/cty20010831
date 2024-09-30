@@ -19,6 +19,7 @@
   <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/cty20010831?tab=repositories" style="color: #007acc;">Github</a>;</li>
   <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/tianyuecong/" style="color: #007acc;">LinkedIn</a>;</li>
   <li>📝 &nbsp; Checkout my <a href="assets/CV.pdf" style="color: #007acc;">CV</a>;</li>
+  <li>🌐 &nbsp; Discover more about me on my <a href="https://cty20010831.github.io/personal_site" style="color: #007acc;">personal website</a>;</li>
   <li>📚 &nbsp; During my spare time, I enjoy 🎱, 🏀, 🥾, and 📸.</li>
 </ul>
 

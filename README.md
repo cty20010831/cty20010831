@@ -6,21 +6,33 @@
 <a href="https://instagram.com/congtianyue" target="blank"><img align="center" src="assets/icons/ins.svg" alt="instagram" height="42px" style="margin-right: 10px;"/></a>
 
 <!-- Introduction Paragraph -->
-I am a second-year student in the MACSS program at the University of Chicago, passionate about using cognitive modeling 🧠 to better understand mental processes in individuals with and without mental disorders. My research focuses on developing multi-modal, real-world frameworks in computational psychiatry that integrate diverse data streams—such as real-time inputs from wearables, smartphones, and behavioral monitoring—to continuously track mental and cognitive changes across different timescales. Through these models, I aim to bridge the gap between theoretical insights and practical clinical applications, empowering clinicians with tools for dynamic diagnostics and personalized treatment strategies.
+I am currently working as a research assistant at [John Torous' lab](https://www.digitalpsych.org/) at Beth Israel Deaconess Medical Center. I completed my undergraduate degree in Applied Psychology at the Chinese University of Hong Kong (Shenzhen) and my master degree in Computational Social Science at the University of Chicago. I fortunately reveived the supervision from great PIs such as <ins>Dr. Shi Yu</ins> at the Chinese University of Hong Kong, <ins>Dr. Akram Bakkour</ins> at the University of Chicago, <ins>Dr. Michael Frank</ins> at Brown University, and <ins>John Torous</ins> at  Beth Israel Deaconess Medical Center. 
 
-In parallel, I explore how people make decisions ⚖️ by incorporating reinforcement learning and sequential sampling models. This line of research seeks to develop AI-powered diagnostic and therapeutic methodologies 🩺, advancing mental health care beyond traditional psychological assessments.
+Broadly speaking, I am interested in **developing more naturalistic, multi-modal approaches to psychiatry**. With the advances in real-time measurement technologies and AI-driven analytical methods, my research aims to introduce naturalistic cognitive neuroscience paradigms (e.g., naturalistic stimuli, VR-enhanced paradigms) to study the computational mechanmisms human high-level cognition (e.g., decision-making, inhibitory control, and cognitive flexibility) and understand how they fall apart in mental disorders. I am also interested in pairing ubiquitous sensors with cognitive neuroscience techniques to gain a better understanding of brain-body-behavior signal dynamics in psychiatric disorders, leveraging state-of-the-art digital phenotyping techniques from signal processing to time-series analysis to multimodal fusion.
 
-Additionally, I study human creativity ✨ by building cognitive models such as compositional stroke embedding for drawing and NLP-based methods for narrative analysis. This work helps uncover the underlying cognitive processes behind creative expression, which, in turn, offers new perspectives on mental health and well-being.
+## Research Interests
+### High-level Cognition
+Decision-Making, Inhibitory Control, Cognitive Flexibility, Creative Reasoning
 
-By connecting these threads, my goal is to develop comprehensive frameworks that advance both the understanding of cognition and the practical delivery of mental health care, combining insights from creativity, decision-making, and psychiatric modeling into meaningful, real-world applications.
+### Naturalistic Cognitive Neuroscience
+Naturalistic Stimuli, VR-Enhanced Paradigms, Spontaneous Thought Processes
+
+### Computational Psychiatry
+Cognitive Modeling, Bayesian/Active Inference, Reinforcement Learning
+
+### Digital Mental Health
+Ecological Momentary Assessment, Smartphone/Wearable Sensors, Real-Time Risk Monitoring, Just-in-Time Adaptive Interventions, Clinical Decision Support
+
+### Digital Phenotyping Analytics
+Signal Processing, Multimodal Fusion, Representation Learning, Dynamical System Modeling, Intensive Longitudinal Modeling, Anomaly Detection, Missing Data Imputation
+
 <br>
 
 ## 🧐 More About Me:
 <img align="right" alt="GIF" src="assets/icons/computational_thinking.gif" height="200px" width="400px"/>
 <ul style="font-size: 16px; color: #333;">
-  <li>💪 &nbsp; I’m now preparing for the upcoming PhD application cycle;</li>
-  <li>🤝 &nbsp; Welcome collaboration on research projects studying creativity, decision-making, & computational psychiatry;</li>
-  <li>🌱 &nbsp; I’m now honing web development & deep learning skills;</li>
+  <li>💪 &nbsp; I’m now preparing for the 26 Fall PhD application cycle;</li>
+  <li>🤝 &nbsp; Welcome collaboration on research projects studying human high-level cognition, computational psychiatry, and digital phenotyping;</li>
   <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/cty20010831?tab=repositories" style="color: #007acc;">Github</a>;</li>
   <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/tianyuecong/" style="color: #007acc;">LinkedIn</a>;</li>
   <li>📝 &nbsp; Checkout my <a href="assets/CV.pdf" style="color: #007acc;">CV</a>;</li>
